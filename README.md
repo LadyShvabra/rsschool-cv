@@ -1,1 +1,1 @@
-# rsschool_cv.
+https://LadyShvabra.github.io/rsschool-cv/
