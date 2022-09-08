@@ -1,0 +1,9 @@
+h1 {
+color: black;
+margin: 22px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fat {
+    font-size: 28px;
+    color: cornflowerblue;
+}
