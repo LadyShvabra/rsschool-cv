@@ -1,1 +1,1 @@
-https://LadyShvabra.github.io/rsschool-cv/
+https://github.com/LadyShvabra/rsschool_cv.git
